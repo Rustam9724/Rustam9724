@@ -16,3 +16,4 @@
 
 ## My projects
 [cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider")
+[virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard")
