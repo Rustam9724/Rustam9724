@@ -13,3 +13,6 @@
 
 
 [![Codewars image](codewars.png)](https://www.codewars.com/users/rustam9724)
+
+## My projects
+[cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider")
