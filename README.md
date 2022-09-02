@@ -15,7 +15,7 @@
 [![Codewars image](codewars.png)](https://www.codewars.com/users/rustam9724)
 
 ## My projects
-[cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider") - ф project where you can enjoy a little slideshow
+[cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider") - a project where you can enjoy a little slideshow
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
 
@@ -34,3 +34,7 @@ find pictures on the topic you are interested in
 ## My certificates
 
 * The Rolling scopes school: [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/c9h8em50 "JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)")
+
+## My contacts
+
+! [telegram](Telegram.png) - @ZhumaevR
