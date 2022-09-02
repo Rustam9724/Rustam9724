@@ -20,3 +20,5 @@
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
 
 [shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
+
+[online-store](https://rustam9724.github.io/online-store/online-store/dist/index.html "omline-store") - an online store where you can choose a guitar of your choice
