@@ -22,3 +22,6 @@
 [shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
 
 [online-store](https://rustam9724.github.io/online-store/online-store/dist/index.html "omline-store") - an online store where you can choose a guitar of your choice
+
+[audio-player](https://rustam9724.github.io/audio-player/audio-player/index.html "audio-player") - 
+a small application with which you can listen to your favorite music
