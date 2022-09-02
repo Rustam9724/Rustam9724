@@ -31,4 +31,6 @@ find pictures on the topic you are interested in
 
 [portfolio](https://rustam9724.github.io/portfolio-project-/portfolio/index.html "portfolio") - Save sincere emotions, romantic feelings and happy moments of life together with professional photographer
 
-[momentum](https://rustam9724.github.io/momentum/momentum/index.html "momentum") - analogue of the Chrome Web Store app of the same name
+## My certificates
+
+* The Rolling scopes school: [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/c9h8em50 "JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)")
