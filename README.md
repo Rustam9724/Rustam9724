@@ -37,4 +37,4 @@ find pictures on the topic you are interested in
 
 ## My contacts
 
-![telegram](Telegram.png) - @ZhumaevR
+![telegram](telegram.png) - @ZhumaevR
