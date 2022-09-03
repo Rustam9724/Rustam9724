@@ -42,5 +42,3 @@ find pictures on the topic you are interested in
 @ZhumaevR
 
 ![discord](Discord.png)
-
-Rustam9724
