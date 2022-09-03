@@ -38,7 +38,9 @@ find pictures on the topic you are interested in
 ## My contacts
 
 ![telegram](telegram.png)
+
 @ZhumaevR
 
-   ![discord](Discord.png)
+![discord](Discord.png)
+
 Rustam9724
