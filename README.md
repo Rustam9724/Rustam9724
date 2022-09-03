@@ -39,3 +39,5 @@ find pictures on the topic you are interested in
 
 ![telegram](telegram.png)
 @ZhumaevR
+
+![discord](Discord.png)
