@@ -15,11 +15,14 @@
 [![Codewars image](codewars.png)](https://www.codewars.com/users/rustam9724)
 
 ## My projects
-[cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider") - a project where you can enjoy a little slideshow
+
+[shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
 
-[shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
+[portfolio](https://rustam9724.github.io/portfolio-project-/portfolio/index.html "portfolio") - Save sincere emotions, romantic feelings and happy moments of life together with professional photographer
+
+[cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider") - a project where you can enjoy a little slideshow
 
 [online-store](https://rustam9724.github.io/online-store/online-store/dist/index.html "omline-store") - an online store where you can choose a guitar of your choice
 
@@ -29,7 +32,6 @@ a small application with which you can listen to your favorite music
 [image-gallery](https://rustam9724.github.io/image-gallery/image-gallery/index.html "image-gallery") - 
 find pictures on the topic you are interested in
 
-[portfolio](https://rustam9724.github.io/portfolio-project-/portfolio/index.html "portfolio") - Save sincere emotions, romantic feelings and happy moments of life together with professional photographer
 
 ## My certificates
 
