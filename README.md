@@ -18,6 +18,8 @@
 
 [food-project](https://rustam9724.github.io/food-project) - This project is a single page application, with which you can choose a dish to your taste from the presented categories
 
+[organizer](https://rustam9724.github.io/Organizer/) - with this application you can plan your affairs in advance and achieve greater efficiency!
+
 [shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
