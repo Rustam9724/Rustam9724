@@ -20,6 +20,8 @@
 
 [organizer](https://rustam9724.github.io/Organizer/) - with this application you can plan your affairs in advance and achieve greater efficiency!
 
+[tic-tac-toe](https://rustam9724.github.io/tic-tac-toe/) - good old tic-tac-toe to pass the time for you and your friends
+
 [shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
