@@ -30,6 +30,8 @@
 
 [react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
 
+[travel](https://rustam9724.github.io/Travel/) - plan your trip with us!
+
 [portfolio](https://rustam9724.github.io/portfolio-project-/portfolio/index.html "portfolio") - Save sincere emotions, romantic feelings and happy moments of life together with professional photographer
 
 [cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider") - a project where you can enjoy a little slideshow
