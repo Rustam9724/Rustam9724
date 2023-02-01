@@ -36,7 +36,9 @@
 
 [cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider") - a project where you can enjoy a little slideshow
 
-[online-store](https://rustam9724.github.io/online-store/online-store/dist/index.html "omline-store") - an online store where you can choose a guitar of your choice
+[online-store](https://rustam9724.github.io/online-store/online-store/dist/index.html "online-store") - an online store where you can choose a guitar of your choice
+
+[custom-video](https://rustam9724.github.io/custom-video/dist/index.html "custom-video") - custom video player built and styled with scss, typescript and webpack
 
 [audio-player](https://rustam9724.github.io/audio-player/audio-player/index.html "audio-player") - 
 a small application with which you can listen to your favorite music
