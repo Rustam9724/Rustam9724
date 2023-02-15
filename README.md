@@ -34,6 +34,8 @@
 
 [portfolio](https://rustam9724.github.io/portfolio-project-/portfolio/index.html "portfolio") - Save sincere emotions, romantic feelings and happy moments of life together with professional photographer
 
+[random-quotes]( "random-quotes") - wisdom from the greatest minds of mankind
+
 [cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider") - a project where you can enjoy a little slideshow
 
 [online-store](https://rustam9724.github.io/online-store/online-store/dist/index.html "online-store") - an online store where you can choose a guitar of your choice
