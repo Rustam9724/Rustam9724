@@ -18,17 +18,17 @@
 
 [food-project](https://rustam9724.github.io/food-project) - This project is a single page application, with which you can choose a dish to your taste from the presented categories
 
+[react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
+
 [organizer](https://rustam9724.github.io/Organizer/) - with this application you can plan your affairs in advance and achieve greater efficiency!
+
+[react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
 
 [tic-tac-toe](https://rustam9724.github.io/tic-tac-toe/) - good old tic-tac-toe to pass the time for you and your friends
 
 [shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
-
-[react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
-
-[react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
 
 [travel](https://rustam9724.github.io/Travel/) - plan your trip with us!
 
