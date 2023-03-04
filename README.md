@@ -44,9 +44,6 @@
 
 [custom-video](https://rustam9724.github.io/custom-video/dist/index.html "custom-video") - custom video player built and styled with scss, typescript and webpack
 
-[audio-player](https://rustam9724.github.io/audio-player/audio-player/index.html "audio-player") - 
-a small application with which you can listen to your favorite music
-
 [image-gallery](https://rustam9724.github.io/image-gallery/image-gallery/index.html "image-gallery") - 
 find pictures on the topic you are interested in
 
