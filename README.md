@@ -26,6 +26,8 @@
 
 [tic-tac-toe](https://rustam9724.github.io/tic-tac-toe/) - good old tic-tac-toe to pass the time for you and your friends
 
+[random-app](https://rustam9724.github.io/random-app/) - Randomizer with the ability to get a random number, password, date, letter and even color!
+
 [memory-games](https://rustam9724.github.io/memory-game/) - kill two birds with one stone - have fun and train your memory!
 
 [shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
