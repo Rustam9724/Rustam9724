@@ -32,7 +32,7 @@
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
 
-[travel](https://rustam9724.github.io/Travel/) - plan your trip with us![random-quotes](https://rustam9724.github.io/
+[travel](https://rustam9724.github.io/Travel/) - plan your trip with us![random-quotes]
 
 ## My certificates
 
