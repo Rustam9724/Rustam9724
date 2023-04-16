@@ -20,8 +20,6 @@
 
 [react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
 
-[organizer](https://rustam9724.github.io/Organizer/) - with this application you can plan your affairs in advance and achieve greater efficiency!
-
 [react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
 
 [tic-tac-toe](https://rustam9724.github.io/tic-tac-toe/) - good old tic-tac-toe to pass the time for you and your friends
@@ -34,21 +32,7 @@
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
 
-[travel](https://rustam9724.github.io/Travel/) - plan your trip with us!
-
-[portfolio](https://rustam9724.github.io/portfolio-project-/portfolio/index.html "portfolio") - Save sincere emotions, romantic feelings and happy moments of life together with professional photographer
-
-[random-quotes](https://rustam9724.github.io/random-jokes "random-quotes") - wisdom from the greatest minds of mankind
-
-[cssMemSlider](https://rustam9724.github.io/cssMemSlider/cssMemSlider/index.html "cssMemSlider") - a project where you can enjoy a little slideshow
-
-[online-store](https://rustam9724.github.io/online-store/online-store/dist/index.html "online-store") - an online store where you can choose a guitar of your choice
-
-[custom-video](https://rustam9724.github.io/custom-video/dist/index.html "custom-video") - custom video player built and styled with scss, typescript and webpack
-
-[image-gallery](https://rustam9724.github.io/image-gallery/image-gallery/index.html "image-gallery") - 
-find pictures on the topic you are interested in
-
+[travel](https://rustam9724.github.io/Travel/) - plan your trip with us![random-quotes](https://rustam9724.github.io/
 
 ## My certificates
 
