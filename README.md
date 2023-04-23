@@ -18,17 +18,19 @@
 
 [food-project](https://rustam9724.github.io/food-project) - This project is a single page application, with which you can choose a dish to your taste from the presented categories
 
-[react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
+[random-app](https://rustam9724.github.io/random-app/) - Randomizer with the ability to get a random number, password, date, letter and even color!
 
-[react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
+[shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
 
 [tic-tac-toe](https://rustam9724.github.io/tic-tac-toe/) - good old tic-tac-toe to pass the time for you and your friends
 
-[random-app](https://rustam9724.github.io/random-app/) - Randomizer with the ability to get a random number, password, date, letter and even color!
+[react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
+
 
 [memory-games](https://rustam9724.github.io/memory-game/) - kill two birds with one stone - have fun and train your memory!
 
-[shelter](https://rustam9724.github.io/shelter/pages/main/index.html "shelter") - a site with which you can save the life of an animal
+[react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
+
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
 
