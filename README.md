@@ -16,6 +16,8 @@
 
 ## My projects
 
+[react-admin](https://rustam9724.github.io/react-admin/) - An application that helps the restaurant administrator to make his work much faster, more efficient and more enjoyable
+
 [food-project](https://rustam9724.github.io/food-project) - This project is a single page application, with which you can choose a dish to your taste from the presented categories
 
 [random-app](https://rustam9724.github.io/random-app/) - Randomizer with the ability to get a random number, password, date, letter and even color!
