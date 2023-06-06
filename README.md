@@ -36,7 +36,7 @@
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
 
-[travel](https://rustam9724.github.io/Travel/) - plan your trip with us!
+[room](https://rustam9724.github.io/room/dist/index.html) - Website for a design company that designs rooms
 
 ## My certificates
 
