@@ -31,7 +31,11 @@
 
 [memory-games](https://rustam9724.github.io/memory-game/) - kill two birds with one stone - have fun and train your memory!
 
+<<<<<<< HEAD
 [room](https://rustam9724.github.io/room/dist/index.html) - Website for a design company that designs rooms
+=======
+[react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
+>>>>>>> a70b3c96e2f7a4fed5a770f83aa96c3c1d07dee5
 
 ## My certificates
 
