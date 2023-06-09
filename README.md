@@ -36,8 +36,6 @@
 
 [virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
 
-[room](https://rustam9724.github.io/room/dist/index.html) - Website for a design company that designs rooms
-
 ## My certificates
 
 * The Rolling scopes school: [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/c9h8em50 "JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)")
