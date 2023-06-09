@@ -31,11 +31,6 @@
 
 [memory-games](https://rustam9724.github.io/memory-game/) - kill two birds with one stone - have fun and train your memory!
 
-[react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
-
-
-[virtual keyboard](https://rustam9724.github.io/virtual-keyboard/virtual-keyboard/index.html "virtual keyboard") - virtual keyboard that can be used even when the real one is broken
-
 [room](https://rustam9724.github.io/room/dist/index.html) - Website for a design company that designs rooms
 
 ## My certificates
