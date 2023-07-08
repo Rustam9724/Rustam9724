@@ -26,8 +26,9 @@
 
 [tic-tac-toe](https://rustam9724.github.io/tic-tac-toe/) - good old tic-tac-toe to pass the time for you and your friends
 
-[react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
+[IAC](https://rustam9724.github.io/IAC/) - compressor company website
 
+[react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
 
 [memory-games](https://rustam9724.github.io/memory-game/) - kill two birds with one stone - have fun and train your memory!
 
