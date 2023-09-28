@@ -28,6 +28,8 @@
 
 [IAC](https://rustam9724.github.io/IAC/) - compressor company website
 
+[emarat](https://rustam9724.github.io/emarat/) - fuel oil manufacturer website
+
 [react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
 
 [memory-games](https://rustam9724.github.io/memory-game/) - kill two birds with one stone - have fun and train your memory!
