@@ -4,7 +4,7 @@
 ![CSS](css.png)
 ![SCSS](scss.png)
 ![JavaScript](javascript.png)
-![React](react.png)
+![React](react.jpeg)
 ![TypeScript](typescript.png)
 ![Git](git.png)
 ![Webpack](webpack.png)
