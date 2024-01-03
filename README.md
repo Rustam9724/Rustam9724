@@ -2,7 +2,7 @@
 ## My stack
 ![HTML](html.png)
 ![CSS](css.png)
-![SCSS](scss.png)
+![SCSS](sass.png)
 ![JavaScript](javascript.png)
 ![React](react.jpeg)
 ![TypeScript](typescript.png)
