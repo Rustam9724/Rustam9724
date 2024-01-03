@@ -28,6 +28,8 @@
 
 [IAC](https://rustam9724.github.io/IAC/) - compressor company website
 
+[tarizmamba](https://rustam9724.github.io/tarixmanba/) - website of the travel company of Uzbekistan
+
 [emarat](https://rustam9724.github.io/emarat/) - fuel oil manufacturer website
 
 [react-movies](https://rustam9724.github.io/movies-project/) - Find information about a movie you're interested in
