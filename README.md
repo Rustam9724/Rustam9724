@@ -30,6 +30,8 @@
 
 [room](https://rustam9724.github.io/room/dist/index.html) - Website for a design company that designs rooms
 
+[designer-weblow](https://rustam9724.github.io/designer-weblof/) - Business card website for a graphic designer
+
 [react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
 
 ## My certificates
