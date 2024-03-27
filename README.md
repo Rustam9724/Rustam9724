@@ -32,6 +32,8 @@
 
 [designer-weblow](https://rustam9724.github.io/designer-weblof/) - Business card website for a graphic designer
 
+[florans](https://rustam9724.github.io/florans/) - Beauty salon website
+
 [react-shop](https://rustam9724.github.io/react-shop-project/) - React training project, which is an online store with an interactive shopping cart
 
 ## My certificates
